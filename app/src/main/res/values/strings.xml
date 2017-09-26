@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Randomized</string>
+    <string name="facts">Facts will be displayed here.</string>
+    <string name="random_fact_api">http://numbersapi.com/random/%1$s</string>
+    <string name="quest_api">http://numbersapi.com/%1$s/%2$s</string>
+</resources>

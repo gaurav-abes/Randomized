@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Randomized</string>
+    <string name="choose_a_category">Choose a category from left.</string>
+    <string name="random_fact_api">http://numbersapi.com/random/%1$s</string>
+</resources>
